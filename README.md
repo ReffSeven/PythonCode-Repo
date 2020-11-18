@@ -1,2 +1,2 @@
 # PythonCode-Repo
-Kumpulan Kode Python Campuran
+Kumpulan kode campuran bahasa python yang bikin pusing kepala
